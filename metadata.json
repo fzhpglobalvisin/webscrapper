@@ -1,0 +1,10 @@
+{
+  "name": "az AI Sales",
+  "description": "Exclusive Single-Page Web Navigator Architecture featuring 70/30 Focus Mode, Dual-Source RAG Knowledge Context, Gemini Multimodal Voice Control, and WhatsApp Lead Capture.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
